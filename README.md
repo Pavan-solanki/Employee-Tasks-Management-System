@@ -1,5 +1,5 @@
 # React + Vite
-To Login- admin@example.com password- 123
+To Login- admin@me.com password- 123
 employee login- employee@example.com password- 123
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
